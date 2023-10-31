@@ -1,0 +1,26 @@
+{
+  "name": "bb-devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "this module allows for a dynamic footer to be generated for js applications with an updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brendab917/BB-devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer",
+    "js",
+    "npm",
+    "module",
+    "excercise"
+  ],
+  "author": "Brenda Brito <brendabritoc17@gmail.com> (https://www.npmjs.com/~brendab917)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brendab917/BB-devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/Brendab917/BB-devcamp-js-footer#readme"
+}
